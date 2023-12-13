@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Muzamil</h1>
 <h3 align="center">A passionate frontend - backend developer</h3>
